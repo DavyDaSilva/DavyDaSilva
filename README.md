@@ -3,18 +3,20 @@
 <!--
 **DavyDaSilva/DavyDaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My name is Davy, i'm a Data Scientist currently graduating at Anhembi,
+My name is Davy, and I am a Data Scientist currently completing my degree at Anhembi.
 
-I've been working in many projects recently, right now on DashBords of visualization in Power BI 
-and expanding my knowled in Machine Learing as you can see in my Portifolio
+I've been working on several projects, and I am currently focused on building data visualisation dashboards using Power BI, 
+while also expanding my knowledge in Machine Learning, as demonstrated in my portfolio.
 
-I use Python, SQL, Algoriths of Machine Leanrning,
-tools of visualizations like Power BI, Looker
-Excel and Sheets for Descriptive Analyses, Dignosis analyses, Predictive analyses and prescriptive analyses
+I use Python, SQL, and Machine Learning algorithms. 
+also data visualisation tools such as Power BI and Looker.
+Excel and Google Sheets for descriptive, diagnostic, predictive, and prescriptive analysis.
 
 
-you can find me in:
--LinkdIn
--Portfolio of my project
--Number 11 95369-3689
--E-mail: Davy2016death@gmail.com
+You can find me here:
+* LinkedIn
+* Project Portfolio
+
+Contact:
+* Phone: +55 11 95369-3689
+* Email: [Davy2016death@gmail.com](mailto:Davy2016death@gmail.com)
