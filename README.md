@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**DavyDaSilva/DavyDaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Davy, and I am a Data Scientist currently completing my degree at Anhembi.
 
 I've been working on several projects, and I am currently focused on building data visualisation dashboards using Power BI, 
