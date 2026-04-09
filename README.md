@@ -11,7 +11,7 @@ Excel and Google Sheets for descriptive, diagnostic, predictive, and prescriptiv
 
 ---
 
-# Projects Made:
+## Projects Made:
 * Dash Bord in Looker
 * Negative Binomial Modeling
 * Temporal Series
@@ -19,7 +19,7 @@ Excel and Google Sheets for descriptive, diagnostic, predictive, and prescriptiv
 
 ---
 
-You can find me here:
+## You can find me here:
 * LinkedIn
 * Project Portfolio
 
