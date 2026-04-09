@@ -9,6 +9,12 @@ I use Python, SQL, and Machine Learning algorithms.
 also data visualisation tools such as Power BI and Looker.
 Excel and Google Sheets for descriptive, diagnostic, predictive, and prescriptive analysis.
 
+---
+
+#Projects Made:
+egeg
+
+---
 
 You can find me here:
 * LinkedIn
