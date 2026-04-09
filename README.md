@@ -12,7 +12,7 @@ Excel and Google Sheets for descriptive, diagnostic, predictive, and prescriptiv
 ---
 
 ## Projects Made:
-* Dash Bord in Looker
+* DashBoards in Looker
 * Negative Binomial Modeling
 * Temporal Series
 * Logistic Regression
