@@ -5,7 +5,7 @@ My name is Davy, and I'm a Data Scientist currently completing my degree at Anhe
 I've been working on several projects, and I am currently focused on building data visualisation dashboards using Power BI, 
 while also expanding my knowledge in Machine Learning, as demonstrated in my portfolio.
 
-I use Python, SQL, and Machine Learning algorithms. 
+I use Python, SQL, and Machine Learning algorithms,
 also data visualisation tools such as Power BI and Looker.
 Excel and Google Sheets for descriptive, diagnostic, predictive, and prescriptive analysis.
 
