@@ -21,8 +21,8 @@ Excel and Google Sheets for descriptive, diagnostic, predictive, and prescriptiv
 ---
 
 ## You can find me here:
-* LinkedIn
-* Project Portfolio
+* LinkedIn www.linkedin.com/in/davy-faria-702426229
+* Project Portfolio https://davydasilva.github.io/portfolio-projects/
 
 Contact:
 * Phone: +55 11 95369-3689
