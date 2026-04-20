@@ -16,7 +16,7 @@ Excel and Google Sheets for descriptive, diagnostic, predictive, and prescriptiv
 * Negative Binomial Modeling
 * Temporal Series
 * Logistic Regression
-* DashBoard in Power BI.
+* DashBoard in Power BI
 
 ---
 
