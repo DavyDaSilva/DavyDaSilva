@@ -23,8 +23,8 @@ and I am currently conducting an A/B test with Abacus.AI.
 ---
 
 ## You can find me here:
-* LinkedIn www.linkedin.com/in/davy-faria-702426229
-* Project Portfolio https://davydasilva.github.io/portfolio-projects/
+* LinkedIn: www.linkedin.com/in/davy-faria-702426229
+* Projects in Portfolio: https://davydasilva.github.io/portfolio-projects/
 
 Contact:
 * Phone: +55 11 95369-3689
