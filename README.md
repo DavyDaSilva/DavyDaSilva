@@ -17,6 +17,8 @@ Excel and Google Sheets for descriptive, diagnostic, predictive, and prescriptiv
 * Temporal Series
 * Logistic Regression
 * DashBoard in Power BI
+ 
+and I am currently conducting an A/B test with Abacus.AI.
 
 ---
 
