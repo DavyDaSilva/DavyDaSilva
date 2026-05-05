@@ -7,7 +7,7 @@ while also expanding my knowledge in Machine Learning, as demonstrated in my por
 
 I use Python, SQL, and Machine Learning algorithms,
 also data visualisation tools such as Power BI and Looker.
-Excel and Google Sheets for descriptive, diagnostic, predictive, and prescriptive analysis.
+Excel and Google Sheets for all analysis as: descriptive, diagnostic, predictive, and prescriptive analysis.
 
 ---
 
