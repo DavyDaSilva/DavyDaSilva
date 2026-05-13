@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Davy, and I'm a Data Scientist currently completing my degree at Anhembi.
+My name is Davy, and I'm a Data Scientist currently completing my degree at Anhembi University.
 
 I've been working on several projects, and I am currently focused on building data visualisation dashboards using Power BI, 
 while also expanding my knowledge in Machine Learning, as demonstrated in my portfolio.
