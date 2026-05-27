@@ -20,7 +20,7 @@ Excel and Google Sheets for all analysis as: descriptive, diagnostic, predictive
 * A/B test with Abacus.AI
 * AI agent with n8n to Automated Analyses
  
-and I am currently working in web app using Stremlit Libery with Python.
+and I am currently working in web app using Stremlit Libery with Python
 
 ---
 
